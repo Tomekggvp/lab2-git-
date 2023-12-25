@@ -1,0 +1,3 @@
+﻿  LAB_12(13).cpp
+C:\Users\tomek\OneDrive\Рабочий стол\С++\LAB_12(13)\LAB_12(13)\LAB_12(13).cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LAB_12(13).vcxproj -> C:\Users\tomek\OneDrive\Рабочий стол\С++\LAB_12(13)\x64\Debug\LAB_12(13).exe
